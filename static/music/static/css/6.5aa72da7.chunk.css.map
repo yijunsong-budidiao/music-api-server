@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/css/hot.css"],"names":[],"mappings":"AAAA,yBACI,YAAa,CACb,qBAAsB,CACtB,uBACJ","file":"6.5aa72da7.chunk.css","sourcesContent":[".hot-container .coverImg {\r\n    height: 220px;\r\n    background-size: cover;\r\n    background-position: center;\r\n}"]}

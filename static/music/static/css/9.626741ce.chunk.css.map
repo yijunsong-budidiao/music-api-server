@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/css/search.css"],"names":[],"mappings":"AAAA,kBACI,YACJ,CAIA,gCAFI,kBAKJ,CAHA,SAEI,UACJ","file":"9.626741ce.chunk.css","sourcesContent":[".search-container {\r\n    padding: 10px;\r\n}\r\n.search-container .inp {\r\n    border-radius: 20px;\r\n}\r\n.hot-btn {\r\n    border-radius: 20px;\r\n    margin: 5px 5px;\r\n}"]}
